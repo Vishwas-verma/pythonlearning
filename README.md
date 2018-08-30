@@ -1,0 +1,2 @@
+# pythonlearning
+notes about python
